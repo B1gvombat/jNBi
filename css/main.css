@@ -31,6 +31,15 @@ header {
     position: absolute;
 }
 
+.tp button:hover {
+    transition: ease-in 0.2s;
+    color: #929292;
+}
+.tp a:hover {
+    transition: ease-in 0.2s;
+    color: #929292;
+}
+
 a{
     font-weight: 200;
 }
