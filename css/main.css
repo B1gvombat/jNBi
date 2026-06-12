@@ -40,9 +40,10 @@ header {
     color: #929292;
 }
 
-a{
+.base-but{
     font-weight: 200;
 }
+
 .mp {
     display: flex;
     flex-direction: row;
