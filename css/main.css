@@ -134,6 +134,7 @@ header {
     height: 90px;
     border-radius: 9px;
     transition: ease-in 0.5s;
+    font-weight: 600;
 }
 
 .buy:hover {
